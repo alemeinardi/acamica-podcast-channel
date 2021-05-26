@@ -7,7 +7,7 @@ Mayo 2021
 
 ## Código Fuente 🚀
 
-Disponible públicamente en https://github.com/alemeinardi/acamica-sprint1-project 
+Disponible públicamente en https://github.com/alemeinardi/acamica-podcast-channel
 
 
 ## Construido con 🛠️
